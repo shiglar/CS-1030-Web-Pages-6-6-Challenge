@@ -1,0 +1,37 @@
+
+body {
+  margin: 0 30px 35px 30px;
+  font-size: 1.2em;
+}
+
+h1 {
+  color: #18CC27;
+  text-align: center;
+}
+
+h2 {
+  color: #7FE310
+}
+
+th, td {
+  border: #D9D01C solid 4px;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+img {
+  margin: 0 auto;
+}
+
+a {
+  color: #18CC27;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D9D01C;
+}
